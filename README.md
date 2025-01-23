@@ -34,7 +34,7 @@ Below is an overview of how it works:<br>
   c.	**Split Data:** Divide the dataset into training and test sets (e.g., 80% training, 20% testing).<br>
   d.	**Train Model:** Fit the machine learning model using the training data.<br>
   e.	**Test Model:** Evaluate on test data using the appropriate metrics.<br>
-5.** Challenges**<br>
+5. **Challenges**<br>
   •	**Data Imbalance:** Spam emails often outnumber Ham emails.<br>
   •	**Evolving Spam Tactics:** Spammers adapt to evade filters.<br>
 6. **Real-Life Application**<br>
